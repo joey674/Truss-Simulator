@@ -1,0 +1,10 @@
+release/edge.o
+release/force.o
+release/joint.o
+release/main.o
+release/mainwindow.o
+release/mygraphicsview.o
+release/myscene.o
+release/truss.o
+release/moc_mainwindow.o
+release/moc_mygraphicsview.o

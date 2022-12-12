@@ -1,0 +1,10 @@
+debug/edge.o
+debug/force.o
+debug/joint.o
+debug/main.o
+debug/mainwindow.o
+debug/mygraphicsview.o
+debug/myscene.o
+debug/truss.o
+debug/moc_mainwindow.o
+debug/moc_mygraphicsview.o
